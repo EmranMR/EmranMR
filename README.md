@@ -16,7 +16,7 @@ I really enjoy open source, so regardless I will be around repos forever!
 - [tree-sitter-blade grammar](https://github.com/EmranMR/tree-sitter-blade)
 - [Laravel Suit for Nova (TBA)](https://github.com/EmranMR/Laravel-Nova-Extension)
 ## Main Tech Stack (full stack):
-- PHP 8.2 ❤️ (and obviously HTML 😛)
+- PHP 8.2 (and obviously HTML 😛)
 - Laravel 
 - Livewire 
 - AlpineJs 
@@ -49,9 +49,9 @@ I really enjoy open source, so regardless I will be around repos forever!
 ## My Setup
 - I use Nova as my main editor by panic [VIM ❤️ mode]
   - Followed by VSCode when I am not at my iMac, esp for remote dev. Not because I want to, but because I have to, thanks to Microsoft lying and killing Atom (tbf everyone knew the innevitable) 😑
-- Raycast ❤️
+- Raycast
 - Obsidian
-- iTerm ❤️ Fig
+- iTerm + Fig 🚀
 - Starship
 - DuckDuckGo
 - Fira Code Nerd Font
