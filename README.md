@@ -4,7 +4,7 @@ Hi 👋 My name is Emran, and my cyber nickname is Alch3m1st 😎! I am a qualif
 
 Computer and programming has always been a passion of mine so I self taught myself vigrously on the side; using various many website, articles and docs. I am also starting my Msc in Software Development in Glasgow University this year 🎓. 
 
-I decided to go back to university, just so that it would consolidate my knowledge, and give me the confidence that I need to progress professionaly as I severly suffer and suffered from imposter syndrom. To a point I fear to even apply for a job. 
+I decided to go back to university, just so that it would consolidate my knowledge, and give me the confidence that I need to progress professionaly as I severly suffer from imposter syndrom. To a point I fear to even apply for a job. 
 
 My dream would be to completely leave pharmacy and become a full time dev/software engineer.
 However until then I decided to start and maintain a couple of open source projects and I am actively contributing to other projects as much as I can. 
