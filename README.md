@@ -1,10 +1,7 @@
 ## About me! 👀
 
-Hi 👋 My name is Emran, and my cyber nickname is Alch3m1st 🤖! 
-I am a pharmacist but computer and programming have always been a passion of mine so I self taught myself vigrously on the side; using various many website, articles and docs. I am also starting my Msc in Software Development in Glasgow University this year 🎓, to further consolidate.
-
-My dream would be to completely leave pharmacy and become a full time dev/software engineer.
-However until then I decided to start and maintain a couple of open source projects and I am actively contributing to other projects as much as I can. 
+Hi 👋 the name is Emran, and the cyber nickname is Alch3m1st 🤖! 
+I am a pharmacist but programming have always been a passion of mine so I self taught myself on the side. I am also starting my Msc in Software Development in Glasgow University this year 🤘 
 
 I really enjoy open source, so regardless I will be around repos forever!
 
@@ -13,7 +10,7 @@ I really enjoy open source, so regardless I will be around repos forever!
 - [tree-sitter-blade grammar](https://github.com/EmranMR/tree-sitter-blade)
 - [Laravel Suit for Nova (TBA)](https://github.com/EmranMR/Laravel-Nova-Extension)
 ## Main Tech Stack (full stack):
-- PHP 8.2 (and obviously HTML 😛)
+- `<?php 8.2`
 - Laravel 
 - Livewire 
 - AlpineJs 
