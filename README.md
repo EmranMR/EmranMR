@@ -1,7 +1,7 @@
 ## About me! 👀
 
 Hi 👋 the name is Emran, and the cyber nickname is Alch3m1st 🤖! 
-I am a pharmacist but programming have always been a passion of mine so I self taught myself on the side. I am also starting my Msc in Software Development in Glasgow University this year 🤘 
+Programming has always been a passion of mine so I self taught myself on the side. I am also starting my Msc in Software Development in Glasgow University this year 🤘 
 
 I really enjoy open source, so regardless I will be around repos forever!
 
@@ -37,6 +37,8 @@ I really enjoy open source, so regardless I will be around repos forever!
 ## How to reach me?
 Catch me on [twitter](https://twitter.com/Alch3m1s7).
 
+## fun fact:
+I am also a pharmacist. 🤷‍♂️
 <!--
 **EmranMR/EmranMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
