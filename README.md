@@ -1,6 +1,6 @@
 ## About me! 👀
 
-Hi 👋 the name is Emran, and the cyber nickname is Alch3m1st 🤖! 
+Hello! 👋
 Programming has always been a passion of mine so I self taught myself on the side. I am also starting my Msc in Software Development in Glasgow University this year 🤘 
 
 I really enjoy open source, so regardless I will be around repos forever!
