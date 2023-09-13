@@ -8,7 +8,7 @@ I really enjoy open source, so regardless I will be around repos forever!
 ## Open Source Projects that I am working on:
 - [AlpineJS Nova Extension](https://github.com/EmranMR/AlpineJS-Nova-Extension)
 - [tree-sitter-blade grammar](https://github.com/EmranMR/tree-sitter-blade)
-- [Laravel Suit for Nova](https://github.com/EmranMR/Laravel-Nova-Extension)
+- [Laravel Suite for Nova](https://github.com/EmranMR/Laravel-Nova-Extension)
 ## Main Tech Stack (full stack):
 - `<?php 8.2`
 - Laravel 
