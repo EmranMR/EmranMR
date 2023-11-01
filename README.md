@@ -17,7 +17,8 @@ Hello! 👋
 
 - Just a guy who enjoys all things computer/programming. 
 - I really enjoy open source, best thing that happened to the humanity, so regardless I will be around repos forever!
-- Love try and adopt the next best thing when the right time comes.
+- Won the 2nd place in GUTS 2023 Hackathon 👾
+- Member of Avionics team at GU Rocketry 🚀 working with the codebase for the _flight_computer_ (C++) 
 
 ## Open Source Projects that I am working on, maintaining at the moemnt:
 - [AlpineJS Nova Extension](https://github.com/EmranMR/AlpineJS-Nova-Extension)
@@ -38,6 +39,9 @@ Hello! 👋
 - PostgreSQL
 - Tree-Sitter
 - Soketi
+- Java
+- C++
+
 
 ## Operating Systems I like
 1. MacOS
